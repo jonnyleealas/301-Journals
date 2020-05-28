@@ -1,6 +1,5 @@
 # 301-Journals
-Jonathons 301 Repo
-# Code 301 Reading Notes
+
 ## This journal contains notes of readings, and assignments of my journey in Code 301 at Code Fellows. 
 
 ### Jonathon Lee May 28, 2020.
@@ -30,8 +29,8 @@ Jonathons 301 Repo
 
 
 ## Professional Competencies Self Assessment 
-- [Prep Work](notes/assessment.md)
-- [Assessment](notes/assessment.md)
+- [Prep Work](progress/assessment.md)
+- [Assessment](progress/assessment.md)
 
 
 
