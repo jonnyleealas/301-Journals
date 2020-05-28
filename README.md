@@ -29,7 +29,8 @@ Jonathons 301 Repo
 
 
 
-
+## Professional Competencies Self Assessment 
+- [Prep Work](notes/assessmentprepwork.md)
 
 
 
