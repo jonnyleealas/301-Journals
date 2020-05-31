@@ -29,7 +29,6 @@
 
 
 ## Professional Competencies Self Assessment 
-- [Prep Work](progress/assessment.md)
 - [Assessment](progress/assessment.md)
 
 
