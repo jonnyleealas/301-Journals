@@ -12,7 +12,7 @@
 
 
 ## Notes 
-- [day 1](notes/day1upstream.md)
+- [day 1 upstream](notes/day1.md)
 
 
 
