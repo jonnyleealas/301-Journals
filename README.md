@@ -11,6 +11,8 @@
 
 
 
+## Notes 
+- [day 1](notes/day1.md)
 
 
 
@@ -19,8 +21,8 @@
 
 
 
-
-
+## Class 301 Career Coaching 
+- [Resume](career/resume.md)
 
 
 
