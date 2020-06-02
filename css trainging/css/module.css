@@ -1,0 +1,13 @@
+div{
+    justify-content: center;
+    text-align: center;
+    /* textcentered inside box */
+    line-height: 100px;
+    object-position: center;
+}
+/* this will make everything red when screen is 500px */
+@media only screen and (min-width:500px){
+   div{
+       display: inline;
+   } 
+}
