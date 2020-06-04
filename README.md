@@ -13,6 +13,10 @@
 
 ## Notes 
 - [day 1 upstream](notes/day1.md)
+- [day 2 jquery](notes/day2.md)
+- [day 3 flexbox](notes/day3.md)
+- [day 4 regex](notes/day4.md)
+
 
 
 
