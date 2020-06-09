@@ -200,3 +200,41 @@ pull request from git hub
 3) compare across forks
 4) then create pull request and merg.
 5) git pull origin master in terminal.
+
+
+
+
+# Partner Power Hour
+# Data structures white boarding stradegies
+- Amber Kim, CodeFellows alumn 
+- Big companies still use this for screening canditates. How you think about problems and how you colaborate with coworkers.
+Draw some ways of thinking. Have conversations and see how other people think about the problem. INterviews are looking for you to optimize ways of thinking through the problems. We need to be able to comunicate and collaborate how you think through problems. 
+Data structures are how we store data. How we tretriece them. how they relate to each other. We deal with alot of data. 
+- Qeues, Stacks, Hashmaps
+
+- Que dogs waiting inline. First come first server the rest wait their turn.
+- Stack. dogs get stacked from first to last. the last goes first.
+- hashes are like apartments. each one have there own aparments. Labeled alphabetically.
+
+# Fizz Buzz
+
+Don't try to solve this right away. Start with a conversation. They want to see how you will converse with them to solve a problem.
+What are the best case examples. What are the worst case. What am I allowed to use? Ask question to see how much easier I can make the problem.
+ -Whats important to the interview.
+ - Fail fast. 
+ - You are also interview the interviewer
+ - Don't be afraid to fail a test. 
+ - The sooner you fail the sooner you can collect data.
+ - It will show you where you can improve.
+ - See how people interview and how they deal with you.
+ - Helps create a plan on how to do better next time.
+ - Show them youre not giving up. 
+ - Talk don't be quite.
+ - Describe what you are writing as you write it.
+ - They are looking for how you think.
+ - The way we think about problems are sometimes different than the computer will see things.
+ - Talk to the interviewer and have a conversation.
+ - Have fun with it.
+ - Take notes as you ask questions.
+ - Use pseudo code.
+ - Write out how example is playing out without having an id or terminal.
