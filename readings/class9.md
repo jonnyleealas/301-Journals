@@ -24,7 +24,7 @@
 - Returns function as it's result.
 
 ### Filter
-Expects a true or false value to determin if the element should or should not be included. If call back is true it will include the element. If false the element will not be included.
+Expects a true or false value to determine if the element should or should not be included. If call back is true it will include the element. If false the element will not be included.
 
 ### Imperative approach
 - Empty array > iterate over numbers > push into empty array.
