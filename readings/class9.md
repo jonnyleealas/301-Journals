@@ -35,5 +35,3 @@ Expects a true or false value to determine if the element should or should not b
 ### Reduce
 - Returns a value by combining items.
 - Takes functions.
-
-
