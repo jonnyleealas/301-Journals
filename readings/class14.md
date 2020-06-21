@@ -2,6 +2,7 @@
 # Class 301
 # Read 14
 
+
 # DB Normalization
 A process used to organize a database into tables and columns. 
 - Limit a table to one purpose helps reduces the number of duplicate data. 
