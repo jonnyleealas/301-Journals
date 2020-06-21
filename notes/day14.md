@@ -1,0 +1,3 @@
+Brian Nations spoke about diversity. We still have a divide when it come to diversity in the tech work place. It is slowly changing. Companies are using new diversity models and implementing them in their space.
+If this is a responsibilty that we feel we have we can add this to our resumes. 
+Ethnicity is also an area that needs improvement. There is a clear gap with diveristy in the Developing. We should be open to a new way
